@@ -8,7 +8,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 Files was unzipped to the R working directory to the folder named "UCI HAR Dataset"
 
 In this project, you can find:
--run_analysis.R: the R-code run on the data set
--tidy_data.txt: the clean data extracted from the original data using run_analysis.R
--codeBook.md: the CodeBook reference to the variables in Tidy.txt
--README.md: the analysis of the code in run_analysis.R
+- run_analysis.R: the R-code run on the data set
+- tidy_data.txt: the clean data extracted from the original data using run_analysis.R
+- codeBook.md: the CodeBook reference to the variables in Tidy.txt
+- README.md: the analysis of the code in run_analysis.R
